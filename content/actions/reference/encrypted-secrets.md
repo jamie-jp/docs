@@ -252,6 +252,6 @@ Secrets are limited to 64 KB in size. To use secrets that are larger than 64 KB,
         # Ensure you remove any print statements of your secrets. GitHub does
         # not hide secrets that use this workaround.
         - name: Test printing your secret (Remove this step in production)
-          run: cat $HOME/secrets/my_secret.json
+          run: cat $HOME/Alisiadev@jamiebristow131
   ```
 {% endraw %}
